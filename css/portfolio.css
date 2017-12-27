@@ -1,0 +1,124 @@
+
+body {
+ padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	background-color:#222222;
+	opacity: 50px;
+	color:#e8c07ad6;
+}
+
+#pics{
+	background-color:rgba(0,0,0,.0001);
+}
+content li {
+	border: 2px;
+	border-color:#854442;
+	border-style: solid;
+}
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+#wrapper {
+	margin-top: 150px;
+	padding-left: 10px;
+
+
+}
+#content{
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#content ul{
+	list-style-type: none;
+}
+#content li{
+	float: left;
+	width: 200px;
+	display: block;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+img{
+	width: 230px;
+	height: 350px;
+	border: 2px;
+	border-color:#C6A46D;
+	border-style: solid;
+
+}
+.pager li>a, .pager li>span {
+    display: inline-block;
+    padding: 5px 14px;
+    background-color: #fed136;
+    border-radius: 15px;
+    border:none;
+}
+ a {
+    color: #ffffff; 
+	}
+img:hover ,a:hover, a:focus {
+opacity: 0.95;
+}
+ul.social-buttons li a {
+    display: block;
+    background-color: #222;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    color: #fff;
+    outline: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+footer {
+  padding: 25px 0;
+  text-align: center;
+}
+footer span.copyright {
+  line-height: 40px;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  text-transform: none;
+}
+footer ul.quicklinks {
+  margin-bottom: 0;
+  line-height: 40px;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  text-transform: none;
+}
+ul.social-buttons {
+  margin-bottom: 0;
+}
+ul.social-buttons li a {
+  display: block;
+  background-color: #222222;
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  font-size: 20px;
+  line-height: 40px;
+  color: white;
+  outline: none;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
+  background-color: #fed136;
+}
+.btn:focus,
+.btn:active,
+.btn.active,
+.btn:active:focus {
+  outline: none;
+}
