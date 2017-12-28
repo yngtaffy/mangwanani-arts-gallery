@@ -3,7 +3,7 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */.btn-primary.active,.btn-primary:active,.btn-xl.active,.btn-xl:active,.open .dropdown-toggle.btn-primary,.open .dropdown-toggle.btn-xl{background-image:none}
- body{overflow-x:hidden;font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;background-color:#333;
+ body{overflow-x:hidden;font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
  webkit-tap-highlight-color:#fed136}
  .btn-primary,.btn-xl,h1,h2,h3,h4,h5,h6{font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
  text-transform:uppercase;
@@ -19,7 +19,7 @@
  	.btn-primary,fieldset[disabled] .btn-primary.active,fieldset[disabled] .btn-primary:active,fieldset[disabled] 
  	.btn-primary:focus,fieldset[disabled] .btn-primary:hover{background-color:#fed136;border-color:#fed136}
  	.btn-primary .badge{color:#fed136;background-color:#fff}
- 	.btn-xl{color:#fff;background-color:#fed136;border-color:#fed136;border-radius:3px;font-size:18px;padding:10px 20px}
+ 	.btn-xl{color:#fff;background-color:#fed136;border-color:#fed136;border-radius:3px;font-size:18px;padding:20px 40px}
  	.btn-xl.active,.btn-xl:active,.btn-xl:focus,.btn-xl:hover,.open .dropdown-toggle.btn-xl{color:#fff;background-color:#fec503;border-color:#f6bf01}
  	.btn-xl.disabled,.btn-xl.disabled.active,.btn-xl.disabled:active,.btn-xl.disabled:focus,.btn-xl.disabled:hover,.btn-xl[disabled],.btn-xl[disabled].active,.btn-xl[disabled]:active,.btn-xl[disabled]:focus,
  	.btn-xl[disabled]:hover,fieldset[disabled] .btn-xl,fieldset[disabled] .btn-xl.active,fieldset[disabled] .btn-xl:active,fieldset[disabled] .btn-xl:focus,fieldset[disabled] 

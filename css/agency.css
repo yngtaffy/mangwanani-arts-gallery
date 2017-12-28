@@ -1,4 +1,4 @@
-@/*!
+/*!
  * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
@@ -323,6 +323,7 @@ header .intro-text .intro-heading {
   font-weight: 350;
   border-radius: 1.5px;
   font-size: 9px;
+  padding: 10px 20px;
 }
 section {
   padding: 100px 0;
